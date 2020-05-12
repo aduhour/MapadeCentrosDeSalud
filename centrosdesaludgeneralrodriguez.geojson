@@ -1,0 +1,530 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-05-12T20:16:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/143635742",
+        "addr:postcode": "1748",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "Hospital Vicente Lopez y Planes",
+        "operator": "Gobierno de la Provincia de Buenos Aires",
+        "operator:type": "public",
+        "phone": "+54 237 484-0323, +54 237 484-0022",
+        "ref:sisa_codigo": "10063642100407",
+        "ref:sisa_tipologia": "ESCIG",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.9493288,
+          -34.6222638
+        ]
+      },
+      "id": "way/143635742"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/174694723",
+        "addr:city": "General Rodríguez",
+        "addr:country": "AR",
+        "addr:full": "Ruta 24 Km 23,500, Cuartel IV",
+        "addr:postcode": "B1749ASA",
+        "amenity": "hospital",
+        "contact:facebook": "http://www.facebook.com/HospitalSommer",
+        "description:es": "Hospital general y leprosario",
+        "healthcare": "hospital",
+        "name": "Hospital Nacional Doctor Baldomero Sommer",
+        "operator": "Ministerio de Salud de la Nación",
+        "operator:type": "public",
+        "phone": "+54 237 405-0800",
+        "ref:sisa_codigo": "14063642000660",
+        "ref:sisa_tipologia": "ESCIE",
+        "website": "http://www.sommer.gov.ar/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.0567935,
+          -34.7168512
+        ]
+      },
+      "id": "way/174694723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/485132496",
+        "addr:city": "General Rodriguez",
+        "addr:postcode": "1748",
+        "addr:street": "Colectora Acceso Oeste Lado Norte",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Hospital Oftalmologico y Odontologico",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.9395568,
+          -34.594657
+        ]
+      },
+      "id": "way/485132496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3248046272",
+        "addr:city": "General Rodriguez",
+        "addr:housenumber": "352",
+        "addr:postcode": "1748",
+        "addr:street": "España",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Clinica Privada Centro",
+        "operator:type": "private",
+        "phone": "+54 237 484-1657, +54 237 485-0720",
+        "ref:sisa_codigo": "10063642300082",
+        "ref:sisa_tipologia": "ESCIG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.9535723,
+          -34.6051562
+        ]
+      },
+      "id": "node/3248046272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7504442396",
+        "addr:postcode": "1748",
+        "addr:street": "Fortín Melincué",
+        "amenity": "doctors",
+        "name": "Centro de Atención Primaria de la Salud 15",
+        "operator": "Municipalidad de General Rodríguez",
+        "operator:type": "public",
+        "phone": "+54 237 484-0557",
+        "ref:sisa_codigo": "50063642201955",
+        "ref:sisa_tipologia": "ESSIDT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.966662,
+          -34.5989955
+        ]
+      },
+      "id": "node/7504442396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7504455942",
+        "addr:full": "Luis María Campos entre Alfonsina Storni y Antartida Argentina, Barrio Los Naranjos",
+        "addr:postcode": "1748",
+        "addr:street": "Luis María Campos",
+        "amenity": "doctors",
+        "name": "Centro de Atención Primaria de la Salud 3",
+        "operator": "Municipalidad de General Rodríguez",
+        "operator:type": "public",
+        "phone": "+54 237484-0022",
+        "ref:sisa_codigo": "50063642202592",
+        "ref:sisa_tipologia": "ESSIDT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.9124398,
+          -34.604059
+        ]
+      },
+      "id": "node/7504455942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7504476800",
+        "addr:full": "Alfonsina Storni y Alberdi, Barrio Villa Vengochea",
+        "addr:postcode": "1748",
+        "addr:street": "Alfonsina Storni",
+        "amenity": "doctors",
+        "name": "Centro de Atención Primaria de la Salud 17",
+        "operator": "Municipalidad de General Rodríguez",
+        "operator:type": "public",
+        "ref:sisa_codigo": "50063642216400",
+        "ref:sisa_tipologia": "ESSIDT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.9192754,
+          -34.607758
+        ]
+      },
+      "id": "node/7504476800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7504483973",
+        "addr:full": "Florida y Avenida Central, Barrio Altos del Oeste",
+        "addr:postcode": "1748",
+        "addr:street": "Florida",
+        "amenity": "doctors",
+        "name": "Centro de Atención Primaria de la Salud 13",
+        "operator": "Municipalidad de General Rodríguez",
+        "operator:type": "public",
+        "ref:sisa_codigo": "50063642201953",
+        "ref:sisa_tipologia": "ESSIDT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.8945065,
+          -34.6277235
+        ]
+      },
+      "id": "node/7504483973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7504499562",
+        "addr:full": "Fitz Roy S/N entre Mercedes y Florida, Barrio Almirante Brown",
+        "addr:postcode": "1748",
+        "addr:street": "Fitz Roy",
+        "amenity": "doctors",
+        "name": "Centro de Atención Primaria de la Salud 7",
+        "operator": "Municipalidad de General Rodríguez",
+        "operator:type": "public",
+        "phone": "+54 237 484-0022",
+        "ref:sisa_codigo": "50063642202654",
+        "ref:sisa_tipologia": "ESSIDT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.9107352,
+          -34.6220433
+        ]
+      },
+      "id": "node/7504499562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7504510851",
+        "addr:full": "San Martín entre Pueyrredón y Las Rosas, Agua de Oro",
+        "addr:postcode": "1748",
+        "amenity": "doctors",
+        "name": "Centro de Atención Primaria de la Salud 8",
+        "operator": "Municipalidad de General Rodríguez",
+        "operator:type": "public",
+        "ref:sisa_codigo": "50063712215027",
+        "ref:sisa_tipologia": "ESSIDT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.8793695,
+          -34.6107481
+        ]
+      },
+      "id": "node/7504510851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7504531404",
+        "addr:full": "Puerto Bahia Blanca y Puerto Anchorena S/N, Barrio Almafuerte",
+        "addr:postcode": "1748",
+        "amenity": "doctors",
+        "name": "Centro de Atención Primaria de la Salud 14",
+        "operator": "Municipalidad de General Rodríguez",
+        "operator:type": "public",
+        "phone": "+54 237 484-0557",
+        "ref:sisa_codigo": "50063642201954",
+        "ref:sisa_tipologia": "ESSIDT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.9443085,
+          -34.5911882
+        ]
+      },
+      "id": "node/7504531404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7504531423",
+        "addr:full": "Colón entre Santa María y San Martín, Vista Linda",
+        "addr:postcode": "1748",
+        "addr:street": "Colón",
+        "amenity": "doctors",
+        "name": "Centro de Atención Primaria de la Salud 10",
+        "operator": "Municipalidad de General Rodríguez",
+        "operator:type": "public",
+        "phone": "+54 237 484-0557",
+        "ref:sisa_codigo": "50063642201950",
+        "ref:sisa_tipologia": "ESSIDT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.9279121,
+          -34.5848055
+        ]
+      },
+      "id": "node/7504531423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7504561505",
+        "addr:full": "Sarmiento y Ecuador, Barrio Los Aromos",
+        "addr:postcode": "1748",
+        "amenity": "doctors",
+        "name": "Centro de Atención Primaria de la Salud 12",
+        "operator": "Municipalidad de General Rodríguez",
+        "operator:type": "public",
+        "ref:sisa_codigo": "50063642201952",
+        "ref:sisa_tipologia": "ESSIDT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.899816,
+          -34.5926653
+        ]
+      },
+      "id": "node/7504561505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7504571071",
+        "addr:full": "Ruta 24 y Galicia, Barrio San Fermín",
+        "addr:postcode": "1748",
+        "amenity": "doctors",
+        "name": "Centro de Atención Primaria de la Salud 2",
+        "operator": "Municipalidad de General Rodríguez",
+        "operator:type": "public",
+        "phone": "+54 237 484-0557",
+        "ref:sisa_codigo": "50063642201956",
+        "ref:sisa_tipologia": "ESSIDT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.9518079,
+          -34.682375
+        ]
+      },
+      "id": "node/7504571071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7504573192",
+        "addr:full": "Maipú y Sargento Cabral S/N, Barrio Parque Rivadavia",
+        "addr:postcode": "1748",
+        "amenity": "doctors",
+        "fixme": "Revisar duplicado con distinto código SISA: Centro 9 de General Rodriguez, Maipú S/N, Código: 50063642201444",
+        "name": "Centro de Atención Primaria de la Salud 9",
+        "operator": "Municipalidad de General Rodríguez",
+        "operator:type": "public",
+        "phone": "+54 237 484-0022",
+        "ref:sisa_codigo": "50063642202682",
+        "ref:sisa_tipologia": "ESSIDT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.8826981,
+          -34.6222133
+        ]
+      },
+      "id": "node/7504573192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7504586684",
+        "addr:full": "Mariano Moreno entre Sargento Cabral y Juana Azurduy",
+        "addr:postcode": "1748",
+        "addr:street": "Mariano Moreno",
+        "amenity": "doctors",
+        "fixme": "Revisar ubicación",
+        "name": "Centro de Atención Primaria de la Salud 6",
+        "operator": "Municipalidad de General Rodríguez",
+        "operator:type": "public",
+        "phone": "+54 237 484-0022",
+        "ref:sisa_codigo": "50063642202645",
+        "ref:sisa_tipologia": "ESSIDT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.9696218,
+          -34.6115804
+        ]
+      },
+      "id": "node/7504586684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7504591711",
+        "addr:full": "Arroyo, Barrio Marabó",
+        "addr:postcode": "1748",
+        "amenity": "doctors",
+        "fixme": "No figura en el mapa municipal, revisar ubicación",
+        "name": "Centro de Atención Primaria de la Salud 11",
+        "operator": "Municipalidad de General Rodríguez",
+        "operator:type": "public",
+        "phone": "+54 237 484-0557",
+        "ref:sisa_codigo": "50063642201951",
+        "ref:sisa_tipologia": "ESSIDT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.8870326,
+          -34.6035413
+        ]
+      },
+      "id": "node/7504591711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7504618887",
+        "addr:full": "San Luis entre Velez Sarfield y La Rotonda, Barrio Villa Sarmiento",
+        "addr:postcode": "1748",
+        "addr:street": "San Luis",
+        "amenity": "doctors",
+        "name": "Centro de Atención Primaria de la Salud 4",
+        "operator": "Municipalidad de General Rodríguez",
+        "operator:type": "public",
+        "phone": "+54 237 484-0022",
+        "ref:sisa_codigo": "50063642202617",
+        "ref:sisa_tipologia": "ESSIDT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.9994802,
+          -34.6012607
+        ]
+      },
+      "id": "node/7504618887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7504618951",
+        "addr:full": "Blas Pascal entre Chañar y Azuay",
+        "addr:postcode": "1748",
+        "addr:street": "Blas Pascal",
+        "amenity": "doctors",
+        "name": "Centro de Atención Primaria de la Salud 5",
+        "operator": "Municipalidad de General Rodríguez",
+        "operator:type": "public",
+        "phone": "+54 237 484-0022",
+        "ref:sisa_codigo": "50063642202632",
+        "ref:sisa_tipologia": "ESSIDT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.8872686,
+          -34.6314059
+        ]
+      },
+      "id": "node/7504618951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7504652824",
+        "addr:postcode": "1748",
+        "addr:street": "Doctor Cherubini",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Centro de Atención Primaria de la Salud 16",
+        "operator": "Municipalidad de General Rodríguez",
+        "operator:type": "public",
+        "phone": "+54 237 484-0557",
+        "ref:sisa_codigo": "50063642201779",
+        "ref:sisa_tipologia": "ESSIDT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.9546242,
+          -34.6128155
+        ]
+      },
+      "id": "node/7504652824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7504657806",
+        "addr:full": "Tucumán entre Dante y E. de Caporale",
+        "addr:postcode": "1748",
+        "addr:street": "Tucumán",
+        "amenity": "doctors",
+        "fixme": "Agregar código SISA y revisar ubicación",
+        "name": "Centro de Atención Primaria de la Salud 18",
+        "operator": "Municipalidad de General Rodríguez",
+        "operator:type": "public",
+        "ref:sisa_tipologia": "ESSIDT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.9341026,
+          -34.6039056
+        ]
+      },
+      "id": "node/7504657806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7504671603",
+        "addr:full": "Capitán T. Elias Gonzo entre Cons. S. Nino y Bomberos Voluntarios",
+        "addr:postcode": "1748",
+        "amenity": "doctors",
+        "fixme": "Agregar código SISA",
+        "name": "Centro de Atención Primaria de la Salud 19",
+        "operator": "Municipalidad de General Rodríguez",
+        "operator:type": "public",
+        "ref:sisa_tipologia": "ESSIDT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.9787722,
+          -34.6207444
+        ]
+      },
+      "id": "node/7504671603"
+    }
+  ]
+}
