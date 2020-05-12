@@ -1,0 +1,827 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-05-12T19:57:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/10847687",
+        "addr:full": "Padre Criado Alonso, Torres, Luján, Buenos Aires",
+        "addr:postcode": "6703",
+        "amenity": "hospital",
+        "email": "direccion@cmdo.gov.ar",
+        "healthcare": "hospital",
+        "healthcare:speciality": "neuropsychiatry",
+        "name": "Hospital Colonia Nacional Doctor Manuel Montes de Oca",
+        "operator": "Ministerio de Salud de la Nación",
+        "operator:type": "public",
+        "phone": "+54 2323 49-3380",
+        "ref:sisa_codigo": "13064972000612",
+        "ref:sisa_tipologia": "ESCIESM",
+        "type": "multipolygon",
+        "website": "https://www.argentina.gob.ar/montes-de-oca",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.1423178,
+          -34.4214531
+        ]
+      },
+      "id": "relation/10847687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/316708520",
+        "addr:city": "Lujan",
+        "addr:housenumber": "501",
+        "addr:postcode": "B6700FOK",
+        "addr:street": "Avenida 215 - Julio Argentino Roca",
+        "amenity": "hospital",
+        "beds": "270",
+        "contact:email": "cnspilar@hsjd.org",
+        "contact:phone": "+54 2323 420-344",
+        "contact:website": "http://www.cnspilar.org.ar/",
+        "name": "Clinica Nuestra Señora del Pilar",
+        "operator": "Orden Hospitalaria de San Juan de Dios",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.1323704,
+          -34.5568545
+        ]
+      },
+      "id": "way/316708520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/474090341",
+        "addr:city": "Luján",
+        "addr:housenumber": "1750",
+        "addr:postcode": "6700",
+        "addr:street": "15 - San Martín",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital Municipal Nuestra Señora de Luján",
+        "operator": "Municipalidad de Luján",
+        "phone": "+542323423333",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.0971949,
+          -34.5700985
+        ]
+      },
+      "id": "way/474090341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/486893617",
+        "addr:housenumber": "1021",
+        "addr:postcode": "6706",
+        "addr:street": "Tropero Moreira",
+        "amenity": "doctors",
+        "building": "yes",
+        "description": "Atención Covid 19 y prácticas esenciales",
+        "healthcare": "doctor",
+        "name": "Centro de Atención Primaria Santa María",
+        "opening_hours": "Mo-Fr 08:00-15:00",
+        "operator": "Municipalidad de Luján",
+        "operator:type": "public",
+        "phone": "+54 2323 494534",
+        "ref:sisa_codigo": "50064972202820",
+        "ref:sisa_tipologia": "ESSIDT",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.1801406,
+          -34.5720272
+        ]
+      },
+      "id": "way/486893617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/487090460",
+        "addr:city": "Luján",
+        "addr:postcode": "6700",
+        "addr:street": "424 - Joaquín V. González 372",
+        "amenity": "doctors",
+        "building": "yes",
+        "healthcare:speciality": "general",
+        "name": "Centro de Atención Primaria de la Salud Barrio San Bernardo",
+        "opening_hours": "Mo-Fr 08:00-16:00, Sa 09:00-12:00",
+        "operator": "Municipalidad de Luján",
+        "operator:type": "public",
+        "phone": "+54 11 3174-1998",
+        "ref:sisa_codigo": "50064972202774",
+        "ref:sisa_tipologia": "ESSIDT",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.1108318,
+          -34.5563081
+        ]
+      },
+      "id": "way/487090460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/487234273",
+        "addr:postcode": "6700",
+        "amenity": "doctors",
+        "building": "yes",
+        "description": "Atención Covid 19 y prácticas esenciales",
+        "fixme": "covid19",
+        "name": "Centro de Atención Primaria de la Salud Parque Lasa",
+        "opening_hours": "Mo-Fr 07:00-14:00",
+        "operator": "Municipalidad de Luján",
+        "operator:type": "public",
+        "phone": "+54 2323 36-6854",
+        "ref:sisa_codigo": "50064972201463",
+        "ref:sisa_tipologia": "ESSIDT",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.0947642,
+          -34.583165
+        ]
+      },
+      "id": "way/487234273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/487236741",
+        "addr:postcode": "6700",
+        "addr:street": "414 - Nicolás Repetto",
+        "amenity": "doctors",
+        "building": "yes",
+        "description": "Atención de prácticas esenciales",
+        "healthcare": "doctor",
+        "name": "Centro de Atención Primaria de la Salud Juan XIII",
+        "opening_hours": "Mo-Fr 07:00-14:00",
+        "operator": "Municipalidad de Luján",
+        "operator:type": "public",
+        "phone": "+54 11 5582-8100",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.1044823,
+          -34.5476962
+        ]
+      },
+      "id": "way/487236741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/700867025",
+        "addr:full": "Juan de Dios Filiberto y Avenidad Doctor Domingo Cabred",
+        "addr:street": "Avenida Doctor Domingo Cabred",
+        "amenity": "hospital",
+        "email": "cabred@ms.gba.gov.ar",
+        "emergency": "no",
+        "healthcare": "hospital",
+        "healthcare:speciality": "neuropsychiatry",
+        "name": "Hospital Interzonal Dr. Domingo Cabred",
+        "opening_hours": "Mo-Fr 08:00-18:00",
+        "phone": "+54 2323 49-6515",
+        "postal_code": "6708",
+        "ref:sisa_codigo": "13064972100615",
+        "ref:sisa_tipologia": "ESCIESM",
+        "website": "https://www.gba.gob.ar/content/región_sanitaria_vii_9",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.0692726,
+          -34.5124887
+        ]
+      },
+      "id": "way/700867025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/746270057",
+        "addr:housenumber": "1360",
+        "addr:postcode": "6700",
+        "addr:street": "14 - Mariano Moreno",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Clínica Güemes",
+        "operator:type": "private",
+        "phone": "+54 02323 43-8495",
+        "ref:sisa_codigo": "10064972300043",
+        "ref:sisa_tipologia": "ESCIG",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.1152625,
+          -34.5701028
+        ]
+      },
+      "id": "way/746270057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/790235681",
+        "amenity": "clinic",
+        "building": "yes",
+        "building:use": "hospital",
+        "fixme": "covid19",
+        "name": "Consultorios Externos para Coronavirus",
+        "operator": "Municipalidad de Luján",
+        "operator:type": "public",
+        "source": "http://www.lujan.gob.ar/?p=18929",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.0966753,
+          -34.5699922
+        ]
+      },
+      "id": "way/790235681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2017556149",
+        "addr:street": "San Carlos",
+        "amenity": "doctors",
+        "description": "Atención Covid 19 y prácticas esenciales",
+        "fixme": "covid19",
+        "name": "Centro de Atención Primaria de la Salud Carlos Keen",
+        "opening_hours": "Mo-Fr 07:00-16:00; Sa 09:00-12:00",
+        "operator": "Municipalidad de Luján",
+        "operator:type": "public",
+        "phone": "+54 11 3180-9715",
+        "ref:sisa_codigo": "50064972201460",
+        "ref:sisa_tipologia": "ESSIDT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.2209717,
+          -34.4871851
+        ]
+      },
+      "id": "node/2017556149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2339475372",
+        "addr:city": "Lujan",
+        "addr:country": "AR",
+        "addr:housenumber": "198",
+        "addr:postcode": "6700",
+        "addr:street": "304 - Los Helechos",
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "name": "Centro de Atención Primaria de la Salud La Loma",
+        "operator": "Municipalidad de Luján",
+        "operator:type": "public",
+        "phone": "+54 11 54501921",
+        "ref:sisa_codigo": "50064972201255",
+        "ref:sisa_tipologia": "ESSIDT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.1204513,
+          -34.5524494
+        ]
+      },
+      "id": "node/2339475372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2467045289",
+        "addr:city": "Luján",
+        "addr:housenumber": "475",
+        "addr:province": "Buenos Aires",
+        "addr:street": "19 - General Las Heras",
+        "amenity": "doctors",
+        "description": "Atención de prácticas esenciales",
+        "healthcare": "doctor",
+        "healthcare:speciality": "general",
+        "name": "Policlínico Eva Perón",
+        "opening_hours": "Mo-Fr 07:00-18:00, Sa 09:00-12:00",
+        "operator": "Municipalidad de Luján",
+        "operator:type": "public",
+        "phone": "+54 2323 42-1260;+54 11 5582-8124"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.1167903,
+          -34.5678526
+        ]
+      },
+      "id": "node/2467045289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2681621621",
+        "addr:housenumber": "397",
+        "addr:street": "Nemesio Litardo",
+        "amenity": "doctors",
+        "description": "Atención de prácticas esenciales",
+        "fixme": "covid19, revisar ubicación",
+        "name": "Centro de Atención Primaria de la Salud Torres",
+        "opening_hours": "Mo-Fr 07:00-20:00",
+        "operator": "Municipalidad de Luján",
+        "operator:type": "public",
+        "phone": "+54 11 4023-0285, +54 2323 49-3295",
+        "ref:sisa_codigo": "50064972201467",
+        "ref:sisa_tipologia": "ESSIDT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.1266841,
+          -34.4320021
+        ]
+      },
+      "id": "node/2681621621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4378712265",
+        "addr:city": "Olivera",
+        "addr:postcode": "6608",
+        "addr:street": "Juan XXIII",
+        "amenity": "doctors",
+        "description": "Atención Covid 19 y prácticas esenciales",
+        "fixme": "covid19",
+        "name": "Centro de Atención Primaria de la Salud Olivera",
+        "opening_hours": "Mo-Fr 08:00-16:00",
+        "operator": "Municipalidad de Luján",
+        "operator:type": "public",
+        "phone": "+54 11 3196-2339;+54 2323 48-3146",
+        "ref:sisa_codigo": "50064972202699",
+        "ref:sisa_tipologia": "ESSIDT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.253766,
+          -34.6250504
+        ]
+      },
+      "id": "node/4378712265"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6227111195",
+        "addr:postcode": "6700",
+        "addr:street": "10 bis - Roma",
+        "amenity": "doctors",
+        "description": "Atención Covid 19 y prácticas esenciales",
+        "fixme": "covid19",
+        "healthcare": "doctor",
+        "healthcare:speciality": "general",
+        "name": "Centro de Atención Primaria de la Salud Padre Varela",
+        "opening_hours": "Mo-Fr 07:00-13:00; Sa 07:00-11:00",
+        "operator": "Municipalidad de Luján",
+        "operator:type": "public",
+        "phone": "+54 11 5582-8118",
+        "ref:sisa_codigo": "50064972201143",
+        "ref:sisa_tipologia": "ESSIDT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.124184,
+          -34.5802111
+        ]
+      },
+      "id": "node/6227111195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6238138479",
+        "addr:city": "Luján",
+        "addr:housenumber": "1259",
+        "addr:street": "260 - Uruguay",
+        "amenity": "doctors",
+        "description": "Atención de prácticas esenciales",
+        "healthcare": "doctor",
+        "healthcare:speciality": "general",
+        "name": "Centro de Atención Primaria de la Salud San Francisco",
+        "opening_hours": "Mo-Fr 08:00-16:00",
+        "operator": "Municipalidad de Luján",
+        "operator:type": "public",
+        "phone": "+54 2323 42-9965;+54 11 3196-2338",
+        "ref:sisa_codigo": "50064972201353",
+        "ref:sisa_tipologia": "ESSIDT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.142518,
+          -34.5454189
+        ]
+      },
+      "id": "node/6238138479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6439091291",
+        "addr:full": "Flandes Y San Martin S/n",
+        "addr:postcode": "6706",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Sanatorio Clinica San Jose Obrero",
+        "operator": "Privado",
+        "operator:type": "private",
+        "phone": "02323 49-7255",
+        "ref:sisa_codigo": "10064972300446",
+        "ref:sisa_tipologia": "ESCIG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.1790071,
+          -34.592925
+        ]
+      },
+      "id": "node/6439091291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6551871763",
+        "addr:full": "General Mosconi y Doctor Muñiz",
+        "addr:postcode": "6712",
+        "addr:street": "General Mosconi",
+        "amenity": "doctors",
+        "description": "Atención Covid 19 y prácticas esenciales",
+        "fixme": "covid19",
+        "healthcare": "doctor",
+        "healthcare:speciality": "clinic;general",
+        "name": "Centro de Atención Primaria de la Salud Santo Cristo",
+        "opening_hours": "Mo-Fr 07:00-13:00",
+        "operator": "Municipalidad de Luján",
+        "operator:type": "public",
+        "phone": "+54 2323 36-3205, +54 2323 48.8232",
+        "ref:sisa_codigo": "50064972202833",
+        "ref:sisa_tipologia": "ESSIDT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.2033473,
+          -34.5567633
+        ]
+      },
+      "id": "node/6551871763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7181029099",
+        "addr:postcode": "6700",
+        "amenity": "doctors",
+        "description": "Atención Covid 19 y prácticas esenciales",
+        "fixme": "covid19",
+        "healthcare": "doctor",
+        "name": "Centro de Atención Primaria de la Salud Santa Elena",
+        "opening_hours": "Mo-Fr 08:00-13:00",
+        "operator": "Municipalidad de Luján",
+        "operator:type": "public",
+        "phone": "+54 11 4024-6344, +54 2323 42-9845",
+        "ref:sisa_codigo": "50064972201465",
+        "ref:sisa_tipologia": "ESSIDT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.1332366,
+          -34.5657916
+        ]
+      },
+      "id": "node/7181029099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7344509664",
+        "addr:housenumber": "944",
+        "addr:postcode": "6708",
+        "addr:street": "Corrientes",
+        "amenity": "doctors",
+        "description": "Atención Covid 19 y prácticas esenciales",
+        "fixme": "covid19",
+        "name": "Centro de Atención Primaria de la Salud Open Door",
+        "opening_hours": "Mo-Fr 07:00-19:00",
+        "operator": "Municipalidad de Luján",
+        "operator:type": "public",
+        "phone": "+54 11 4023-0119, +54 2323 49-6230",
+        "ref:sisa_codigo": "50064972201142",
+        "ref:sisa_tipologia": "ESSIDT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.0744866,
+          -34.4903194
+        ]
+      },
+      "id": "node/7344509664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7344926916",
+        "addr:housenumber": "1755",
+        "addr:street": "462 - Jujuy",
+        "amenity": "doctors",
+        "description": "Atención Covid 19 y prácticas esenciales",
+        "fixme": "covid19",
+        "healthcare": "doctor",
+        "name": "Centro de Atención Primaria de la Salud Villa del Parque",
+        "opening_hours": "Mo-Fr 08:00-18:00",
+        "operator": "Municipalidad de Luján",
+        "operator:type": "public",
+        "phone": "+54 11 4175-2616"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.0881982,
+          -34.5681284
+        ]
+      },
+      "id": "node/7344926916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7344926917",
+        "amenity": "doctors",
+        "description": "Atención Covid 19 y prácticas esenciales",
+        "fixme": "covid19",
+        "healthcare": "doctor",
+        "name": "Centro de Atención Primaria de la Salud Ameghino",
+        "opening_hours": "Mo-Fr 08:00-18:00",
+        "operator": "Municipalidad de Luján",
+        "operator:type": "public",
+        "phone": "+54 2323 36-2988"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.0834836,
+          -34.5599753
+        ]
+      },
+      "id": "node/7344926917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7345029445",
+        "addr:city": "Luján",
+        "addr:street": "16 - Adolfo Alsina",
+        "amenity": "doctors",
+        "fixme": "covid19",
+        "healthcare": "doctor",
+        "healthcare:speciality": "general",
+        "name": "Centro de Atención Primaria de la Salud Barrio San Cayetano",
+        "opening_hours": "Mo-Fr 07:00-15:00",
+        "opening_hours:covid19": "off",
+        "operator": "Municipalidad de Luján",
+        "operator:type": "public",
+        "phone": "+54 2323 42-9808",
+        "ref:sisa_codigo": "50064972201464",
+        "ref:sisa_tipologia": "ESSIDT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.1169676,
+          -34.5758131
+        ]
+      },
+      "id": "node/7345029445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7345110669",
+        "addr:full": "Las Estrellas y Venus S/N Barrio Los Laureles",
+        "addr:street": "611 - Las Estrellas",
+        "amenity": "doctors",
+        "description": "Atención de prácticas esenciales",
+        "healthcare": "doctor",
+        "healthcare:speciality": "general",
+        "name": "Centro de Atención Primaria de la Salud Los Laureles",
+        "opening_hours": "Mo-Fr 08:00-13:00",
+        "operator": "Municipalidad de Luján",
+        "operator:type": "public",
+        "phone": "+54 11 5582-8108, +54 2323 42-8951",
+        "ref:sisa_codigo": "50064972202102",
+        "ref:sisa_tipologia": "ESSIDT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.0531471,
+          -34.5905721
+        ]
+      },
+      "id": "node/7345110669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7412849760",
+        "addr:street": "Los Rosales y Madreselvas",
+        "amenity": "doctors",
+        "description": "Atención Covid 19 y prácticas esenciales",
+        "fixme": "covid19",
+        "name": "CIC San Fermín",
+        "opening_hours": "Mo-Fr 08:00-16:00; Sa 09:00-12:00",
+        "operator": "Municipalidad de Luján",
+        "operator:type": "public",
+        "phone": "+54 2323 44-0947",
+        "ref:sisa_codigo": "50064972201529",
+        "ref:sisa_tipologia": "ESSIDT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.1186434,
+          -34.5470302
+        ]
+      },
+      "id": "node/7412849760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7424185469",
+        "addr:city": "Jauiregui",
+        "amenity": "doctors",
+        "description": "Atención de prácticas esenciales",
+        "healthcare": "doctor",
+        "healthcare:speciality": "general",
+        "name": "Centro de Atención Primaria de la Salud Loreto",
+        "opening_hours": "Mo-Fr 08:00-13:00",
+        "operator": "Municipalidad de Luján",
+        "operator:type": "public",
+        "phone": "+54 11 3174-1994",
+        "ref:sisa_codigo": "50064972215018",
+        "ref:sisa_tipologia": "ESSIDT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.1729655,
+          -34.6096051
+        ]
+      },
+      "id": "node/7424185469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7501610843",
+        "addr:housenumber": "2222",
+        "addr:postcode": "6700",
+        "addr:street": "518 - Los 33 Orientales",
+        "amenity": "doctors",
+        "description": "Atención de prácticas esenciales",
+        "fixme": "Revisar ubicación",
+        "name": "Centro de Atención Primaria de la Salud Los Gallitos",
+        "opening_hours": "Mo-Fr 07:00-16:00",
+        "opening_hours:covid19": "off",
+        "operator": "Municipalidad de Luján",
+        "operator:type": "public",
+        "ref:sisa_codigo": "50064972215015",
+        "ref:sisa_tipologia": "ESSIDT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.1118875,
+          -34.5887063
+        ]
+      },
+      "id": "node/7501610843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7501677062",
+        "addr:postcode": "6700",
+        "amenity": "doctors",
+        "fixme": "covid19",
+        "name": "Centro de Atención Primaria de la Salud El Milagro",
+        "opening_hours": "Mo-Fr 07:00-16:00",
+        "opening_hours:covid19": "off",
+        "operator": "Municipalidad de Luján",
+        "operator:type": "public",
+        "phone": "+54 2323 42-9868",
+        "ref:sisa_codigo": "50064972201461",
+        "ref:sisa_tipologia": "ESSIDT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.1031033,
+          -34.5560373
+        ]
+      },
+      "id": "node/7501677062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7501687318",
+        "addr:full": "José Ingenieros y Ameghino",
+        "addr:postcode": "6700",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Centro de Atención Primaria de Salud Barrio Ameghino",
+        "opening_hours:covid19": "Lu-Vi 08:00-18:00",
+        "operator": "Municipal",
+        "operator:type": "public",
+        "phone": "(02323) 15-582-8106, (02323) 15-362988",
+        "ref:sisa_codigo": "50064972201450",
+        "ref:sisa_tipologia": "ESSIDT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.0834749,
+          -34.5599219
+        ]
+      },
+      "id": "node/7501687318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7501742756",
+        "addr:full": "Las Margaritas S/N Y Las Calas - Barrio San Pedro",
+        "addr:housenumber": "1066",
+        "addr:postcode": "6700",
+        "addr:street": "337 - Las Margaritas",
+        "amenity": "doctors",
+        "fixme": "covid19, revisar ubicación",
+        "healthcare": "doctor",
+        "name": "Centro de Atención Primaria de Salud San Pedro",
+        "opening_hours:covid19": "off",
+        "operator": "Municipalidad de Luján",
+        "operator:type": "public",
+        "phone": "+54 2323 42-9872",
+        "ref:sisa_codigo": "50064972202802",
+        "ref:sisa_tipologia": "ESSIDT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.1210157,
+          -34.539036
+        ]
+      },
+      "id": "node/7501742756"
+    }
+  ]
+}

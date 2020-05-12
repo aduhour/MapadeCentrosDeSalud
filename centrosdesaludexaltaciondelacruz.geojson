@@ -1,0 +1,179 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-05-12T20:01:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2125045886",
+        "addr:housenumber": "74",
+        "addr:postcode": "2814",
+        "addr:street": "9 de Julio",
+        "amenity": "clinic",
+        "emergency": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general;pediatrics;cardiology;obstetrics;ophthalmology;nutrition;urology;psi",
+        "name": "Sala de Primeros Auxilios Los Cardales",
+        "opening_hours": "24/7",
+        "operator": "Municipalidad de Exaltación de la Cruz",
+        "operator:type": "public",
+        "phone": "+54 230 4492255",
+        "ref:sisa_codigo": "50062662201852",
+        "ref:sisa_tipologia": "ESSIDT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.9852994,
+          -34.3301165
+        ]
+      },
+      "id": "node/2125045886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2499968550",
+        "addr:housenumber": "966",
+        "addr:street": "Luis María Migliaro",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Hospital Municipal San José",
+        "operator": "Municipalidad de Exaltación de la Cruz",
+        "operator:type": "public",
+        "phone": "+54 2323 49-1344",
+        "ref:sisa_codigo": "10062662207080",
+        "ref:sisa_tipologia": "ESCIG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.1039735,
+          -34.2877547
+        ]
+      },
+      "id": "node/2499968550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2611845851",
+        "addr:full": "Formosa S/N",
+        "addr:postcode": "2812",
+        "amenity": "doctors",
+        "name": "Sala de Primeros Auxilios Diego Gaynor",
+        "operator": "Municipalidad de Exaltación de la Cruz",
+        "operator:type": "public",
+        "phone": "+54 2326 45-4808, +54 2326 45-1041",
+        "ref:sisa_codigo": "50062662201815",
+        "ref:sisa_tipologia": "ESSIDT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.2231368,
+          -34.2880323
+        ]
+      },
+      "id": "node/2611845851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7501174304",
+        "addr:full": "Ruta 39 Km 1",
+        "addr:postcode": "2812",
+        "amenity": "doctors",
+        "fixme": "covid19, revisar ubicación",
+        "healthcare": "general",
+        "name": "Sala de Primeros Auxilios Pavón",
+        "operator": "Municipalidad de Exaltación de la Cruz",
+        "operator:type": "public",
+        "phone": "+54 2323 47-3100",
+        "ref:sisa_codigo": "50062662201874",
+        "ref:sisa_tipologia": "ESSIDT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.0422601,
+          -34.3810208
+        ]
+      },
+      "id": "node/7501174304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7501238066",
+        "addr:full": "Los Nogales y Los Cedros",
+        "addr:postcode": "6703",
+        "amenity": "doctors",
+        "fixme": "covid19, revisar esquina",
+        "name": "Sala de Primeros Auxilios Parada Robles",
+        "operator": "Municipalidad de Exaltación de la Cruz",
+        "operator:type": "public",
+        "phone": "+54 2323 47-8020",
+        "ref:sisa_codigo": "50062662201809",
+        "ref:sisa_tipologia": "ESSIDT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.1252127,
+          -34.3767617
+        ]
+      },
+      "id": "node/7501238066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7501585424",
+        "addr:postcode": "2812",
+        "amenity": "doctors",
+        "fixme": "Revisar ubicación",
+        "name": "Sala de Primeros Auxilios Barrio Esperanza",
+        "operator": "Municipalidad de Exaltación de la Cruz",
+        "operator:type": "public",
+        "phone": "+54 2323 58-1078",
+        "ref:sisa_codigo": "50062662201960",
+        "ref:sisa_tipologia": "ESSIDT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.0829948,
+          -34.3216037
+        ]
+      },
+      "id": "node/7501585424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7504170866",
+        "addr:full": "Ruta 193 Km. 22.500",
+        "addr:postcode": "2812",
+        "amenity": "doctors",
+        "name": "Centro Asistencial Barrio Chenaut Sala Los Ombúes",
+        "operator": "Municipalidad de Exaltación de la Cruz",
+        "operator:type": "public",
+        "phone": "+54 2323 47-8999",
+        "ref:sisa_codigo": "50062662201089",
+        "ref:sisa_tipologia": "ESSIDT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.2328578,
+          -34.2240274
+        ]
+      },
+      "id": "node/7504170866"
+    }
+  ]
+}
