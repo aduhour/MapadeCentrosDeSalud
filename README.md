@@ -7,7 +7,7 @@ Consultas y archivos geojson de Centros de Salud
 Contorno del partido
 
 Luján
-https://overpass-turbo.eu/s/TNn
+https://overpass-turbo.eu/s/TTo
  
 Exaltación de la Cruz
 https://overpass-turbo.eu/s/TOu
