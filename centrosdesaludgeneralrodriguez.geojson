@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-05-12T20:16:03Z",
+  "timestamp": "2020-05-12T22:22:02Z",
   "features": [
     {
       "type": "Feature",
@@ -63,19 +63,25 @@
       "properties": {
         "@id": "way/485132496",
         "addr:city": "General Rodriguez",
+        "addr:full": "Colectora Norte Acceso Oeste, Km 50,500 y Puentes Harris, General Rodríguez",
         "addr:postcode": "1748",
         "addr:street": "Colectora Acceso Oeste Lado Norte",
-        "amenity": "hospital",
+        "amenity": "clinic",
         "emergency": "yes",
-        "healthcare": "hospital",
-        "name": "Hospital Oftalmologico y Odontologico",
+        "healthcare": "clinic",
+        "name": "Hospital Odontológico Municipal Doctor Mauricio Kaplan",
+        "operator": "Municipalidad de General Rodríguez",
+        "operator:type": "public",
+        "phone": "+54 237 484-0035",
+        "ref:sisa_codigo": "50063642218403",
+        "ref:sisa_tipologia": "ESSIDT",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.9395568,
-          -34.594657
+          -58.9395017,
+          -34.5945127
         ]
       },
       "id": "way/485132496"
